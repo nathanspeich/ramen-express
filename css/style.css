@@ -234,11 +234,11 @@ h3 {
 
 /*Hours*/
 
-.sectionHours {
+.sectionLocation {
   padding-top: 6rem;
 }
 
-.hours {
+.location {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -246,11 +246,11 @@ h3 {
   gap: 2rem;
 }
 
-.hoursHeading {
+.locationHeading {
   text-align: center;
 }
 
-.hours .icon {
+.location .icon {
   font-size: 3rem;
   color: #f77f00;
 }
